@@ -1,0 +1,7 @@
+This is read me txt
+
+<<<<<<< HEAD
+Feature1
+=======
+file 1 fixed the bug
+>>>>>>> bugfix_file1
